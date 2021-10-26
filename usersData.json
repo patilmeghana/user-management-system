@@ -1,0 +1,25 @@
+[
+    {
+        "username": "mayurs@prdxn.com",
+        "password": "aaasss",
+        "about": {
+            "Hobbies": [
+                "nothing",
+                "nothing"
+            ],
+            "skills": "IDK"
+        }
+    },
+    {
+        "username": "vishalg@prdxn.com",
+        "password": "guptavishal",
+        "about": {
+            "books": "till the end",
+            "hoobies": "cricket"
+        }
+    },
+    {
+        "username": "tejeshs@prdxn.com",
+        "password": "shindetejesh"
+    }
+]
